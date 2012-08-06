@@ -4,7 +4,7 @@
 	<groupId>de.fhg.fokus.net</groupId>
 	<artifactId>packetmatcher</artifactId>
 	<name>PacketMatcher</name>
-	<version>1.0.1-jan2012</version>
+	<version>1.0.1</version>
 	<description>packetID matcher</description>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
