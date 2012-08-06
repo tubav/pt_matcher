@@ -1,0 +1,7 @@
+*.log
+.m2classpath
+.classpath
+.project
+.settings/*
+target/*
+matcher_data/*
