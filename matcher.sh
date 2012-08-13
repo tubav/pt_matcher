@@ -1,4 +1,5 @@
 #!/bin/sh
 # packet matcher start script
 #
-java -jar ./target/packetmatcher-1.0.1-jar-with-dependencies.jar $*
+
+java -jar $(dirname "$0")/target/packetmatcher-1.2-jar-with-dependencies.jar $*
